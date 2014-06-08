@@ -8,7 +8,8 @@
 /.bundle
 # Ignore rbenv gemset directory
 /.gems
-
+# Ignore secret token file from git repo
+/.secret
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
